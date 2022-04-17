@@ -1,2 +1,2 @@
-# OMF-Term-Project
-Term Project of OMF subject Sem 9
+# OMF-Project
+Code for the term project for the course Optimization Methods in Finance
